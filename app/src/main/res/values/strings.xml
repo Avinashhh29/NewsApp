@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="search">Search...</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="published_at">PUBLISHED AT</string>
 </resources>
