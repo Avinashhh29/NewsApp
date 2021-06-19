@@ -20,7 +20,7 @@ suspend fun getBreakingNews(
 
 @GET("v2/everything")
 suspend fun searchForNews(
-        @Query("country")
+        @Query("q")
         searchQuery:String,
         @Query("page")
         pageNumber:Int=1,
